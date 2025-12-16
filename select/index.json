@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "絶体絶命",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-16T10:32:55.910618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_絶体絶命_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_絶体絶命_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/03_絶体絶命_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zettai Zetsumei [絶体絶命]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/04_Zettai_Zetsumei_[絶体絶命]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "絶体絶命 (Instrumental)",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/05_絶体絶命_(Instrumental)_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/06_絶体絶命_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/07_絶体絶命_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "絶体絶命☆メテオライト",
+      "artist": "that same street",
+      "has_synced": true,
+      "path": "select/08_絶体絶命☆メテオライト_that_same_street.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "絶体絶命☆ギャラクティカ",
+      "artist": "that same street",
+      "has_synced": true,
+      "path": "select/09_絶体絶命☆ギャラクティカ_that_same_street.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/10_絶体絶命_東京事変.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "東京事変_Incidents Tokyo",
+      "has_synced": true,
+      "path": "select/11_絶体絶命_東京事変_Incidents_Tokyo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "絶体絶命 - Zettai Zetsumei",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/12_絶体絶命_-_Zettai_Zetsumei_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "絶体絶命",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/13_絶体絶命_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶体絶命",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_絶体絶命_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "絶体絶命",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_絶体絶命_東京事変.txt"
+    }
+  ]
+}
